@@ -1,2 +1,0 @@
-# yunyu
-A Minecraft launcher
